@@ -1,0 +1,23 @@
+{
+    "name": "iuravic/duktig-symfony-event-dispatcher-adapter",
+    "type": "library",
+    "authors": [
+        {"name": "Ivan Uravić", "email": "iuravic@gmail.com"}
+    ],
+    "license": ["MIT"],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.1",
+        "iuravic/duktig-core": "dev-master",
+        "symfony/event-dispatcher": "^3.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.1",
+        "mockery/mockery": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Duktig\\Event\\Dispatcher\\Adapter\\SymfonyEventDispatcher\\": "src/"
+        }
+    }
+}
