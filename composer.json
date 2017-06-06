@@ -1,10 +1,25 @@
 {
     "name": "iuravic/duktig-symfony-event-dispatcher-adapter",
     "type": "library",
-    "authors": [
-        {"name": "Ivan Uravić", "email": "iuravic@gmail.com"}
+    "description": "Symfony Event Dispatcher adapter for Duktig MVC micro web framework",
+    "keywords": [
+        "Duktig",
+        "framework",
+        "adapter",
+        "Symfony",
+        "event",
+        "dispatcher"
     ],
-    "license": ["MIT"],
+    "homepage": "https://github.com/iuravic/duktig-symfony-event-dispatcher-adapter",
+    "license": [
+        "MIT"
+    ],
+    "authors": [
+        {
+            "name": "Ivan Uravić",
+            "email": "iuravic@gmail.com"
+        }
+    ],
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
