@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/iuravic/duktig-symfony-event-dispatcher-adapter.svg?branch=master)](https://travis-ci.org/iuravic/duktig-symfony-event-dispatcher-adapter)
+[![Build Status](https://travis-ci.org/iuravic/duktig-symfony-event-dispatcher-adapter.svg?branch=master)](https://travis-ci.org/iuravic/duktig-symfony-event-dispatcher-adapter) [![Coverage Status](https://coveralls.io/repos/github/iuravic/duktig-symfony-event-dispatcher-adapter/badge.svg?branch=master)](https://coveralls.io/github/iuravic/duktig-symfony-event-dispatcher-adapter?branch=master)
 
 # duktig-symfony-event-dispatcher-adapter
 
